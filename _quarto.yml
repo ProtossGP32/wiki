@@ -8,7 +8,7 @@ website:
     style: headline
     palette: dark
 
-  repo-url: https://github.com/quarto-dev/quarto-demo
+  repo-url: https://github.com/AlbertProfe/wiki
   repo-actions: [edit, issue]
 
   navbar:
